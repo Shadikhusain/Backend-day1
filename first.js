@@ -1,3 +1,4 @@
+// require("./second")
 console.log("Hello, I am first");
 
 //############## Mujhe dono files ka code ek saath run kerna hai to kaise kre #############
