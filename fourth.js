@@ -16,4 +16,4 @@ console.log(module.exports);
 // module.exports = { sum, sub }
 // module.exports = { sum: sum, sub: sub }
 module.exports.sum = sum;
-module.exports.sub = sub;
+module.exports.sub = sub
